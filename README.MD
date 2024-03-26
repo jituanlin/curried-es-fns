@@ -11,6 +11,9 @@ A typed, curried, ES6+ functions library for pipe style programming.
 
 ## Example
 
+Install using Yarn by running `yarn add pipeable-es-fns`, or use any package manager you prefer.
+
+And then, leverage pipe style programming with native ES functions:
 ```typescript
 import {array, object, pipe} from 'pipeable-es-fns'
 
